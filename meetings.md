@@ -34,3 +34,7 @@ The following actions came out of this meeting :
 ### Source Document :
 
 {% embed url="https://docs.google.com/document/d/1QYN89bnd2Wi6Mp3MkeWm6wPMWK1ch_wTAuShKUgmBEw/edit?usp=sharing" %}
+
+## 21st October 2021 - Decentralised Auditing
+
+Hill, CEO of SPOCRA gave a presentation on Auditing ([see this section](audit-presentation.md#presentation)).
