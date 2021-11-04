@@ -2,7 +2,9 @@
 
 * [Overview](README.md)
 * [Current auditing process](current-auditing-process.md)
-* [Auditing data model](auditing-data-model.md)
+* [Auditing data model](auditing-data-model/README.md)
+  * [Data model design decisions](auditing-data-model/data-model-design-decisions.md)
+* [Initial implementation](initial-implementation.md)
 * [Questions to answer](questions-to-answer.md)
 * [Meetings](meetings.md)
 * [Audit Presentation](audit-presentation.md)
