@@ -38,7 +38,7 @@ When doing progress reports you can include what the proposers have done since t
 
 
 
-****
+### **5. Progress status values**
 
-
+Adding status values for progress reports from a fixed list of options adds an easy to use data structure that can be presented clearly on an interface. Now instead of the community needing to read the reports you would be able to see at a glance which projects have not started, are in progress, are blocked or have completed specific milestones in their proposals. The importance of this is it will speed up the interactions between the community and proposals who may need help or need to be flagged due to a lack of progress.
 

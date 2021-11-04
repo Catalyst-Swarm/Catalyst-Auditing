@@ -1,5 +1,4 @@
 # Questions to answer
 
-* **Progress status** - A status value based off a set of fixed value options offers a simple way to mark what is happening in the project rather than that being hidden in a textual format. This helps give an overview of all of the projects in the ecosystem and which ones are not started, blocked, in progress or completed. The key question is here is the best way to structure the types to cater for projects that haven't started yet - should this be included as a type or is it inferred by there not being a report? There's a few ways to data model this.
 * **Success and issue types** - The types can be useful for added information, especially for data analysis, to see what projects are struggling or succeeding on most in the ecosystem which in turn could help drive solutions to common problems teams are facing. This list of types needs properly reviewing in more detail to get the right taxonomy for grouping them.
 * **Milestones and KPI data model** - More thought is needed on what data would be needed to store.
