@@ -47,9 +47,7 @@ Attendees : Felix Weber, George Lovegove, Tevo Saks, Stephen Whitenstall
 
 We meet to discuss ways forward on the "Quest for Taximony" ([see this section](quest-for-taxonomy.md)).
 
-How to group proposals by tags.&#x20;
-
-How to proceed with "Quest for Taximony1 for Fund 6 proposals
-
-Limiting Auditability Pilot to Fund 6 Proposers in our network.
+- How to group proposals by tags.&#x20;
+- How to proceed with "Quest for Taximony1 for Fund 6 proposals
+- Limiting Auditability Pilot to Fund 6 Proposers in our network.
 
