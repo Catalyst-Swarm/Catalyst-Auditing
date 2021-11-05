@@ -35,6 +35,21 @@ The following actions came out of this meeting :
 
 {% embed url="https://docs.google.com/document/d/1QYN89bnd2Wi6Mp3MkeWm6wPMWK1ch_wTAuShKUgmBEw/edit?usp=sharing" %}
 
-## 21st October 2021 - Decentralised Auditing
+## 21st October 2021 - Decentralized Auditing
 
-Hill, CEO of SPOCRA gave a presentation on Auditing ([see this section](audit-presentation.md#presentation)).
+Ron Hill, CEO of SPOCRA gave a presentation on Auditing ([see this section](audit-presentation.md#presentation)).
+
+More detail to be added from Miro.
+
+## 4th November 2021 - Distributed Auditability
+
+Attendees : Felix Weber, George Lovegove, Tevo Saks, Stephen Whitenstall
+
+We meet to discuss ways forward on the "Quest for Taximony" ([see this section](quest-for-taxonomy.md)).
+
+How to group proposals by tags.&#x20;
+
+How to proceed with "Quest for Taximony1 for Fund 6 proposals
+
+Limiting Auditability Pilot to Fund 6 Proposers in our network.
+
