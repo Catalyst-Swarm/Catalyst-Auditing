@@ -6,7 +6,7 @@ description: In progress thoughts on how an initial implementation could work
 
 ### **Identity (Proposer and proposal)**
 
-Initially not implemented as using trusted community members for first pilot implementation. This will require authorization and verification steps to release to all funded cohort participants in a future rollout.
+Initially identity does not need to be implemented as we will use trusted community members for the first pilot implementation. In the future authorization and verification steps are needed to release the reporting process to all funded cohort participants.
 
 In a future rollout verification could include using email verification for the short term before ideally moving to an Atala Prism identity solution once an integration can be made in the longer term.
 

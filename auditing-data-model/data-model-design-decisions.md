@@ -40,9 +40,11 @@ When doing progress reports you can include what the proposers have done since t
 
 
 
-### **5. Progress status values**
+### **5. Proposal progress status values**
 
-Adding status values for progress reports from a fixed list of options adds an easy to use data structure that can be presented clearly on an interface. Now instead of the community needing to read the reports you would be able to see at a glance which projects have not started, are in progress, are blocked or have completed specific milestones in their proposals. The importance of this is it will speed up the interactions between the community and proposals who may need help or need to be flagged due to a lack of progress.
+Adding status values for progress reports from a fixed list of options adds an easy way for the community to see what is happening in a given proposal. This status value give high level information about whether a project hasn't started, is in progress or is completed.&#x20;
+
+The progress status value does not deal with whether the milestones are fully reached when completing a proposal - only that execution is finished regardless of the outcome. Instead of this status value being added to a progress report it could be add in a completion report that indicates what a proposal team set out to do and what actually got completed.
 
 
 
@@ -50,8 +52,27 @@ Adding status values for progress reports from a fixed list of options adds an e
 
 The current success and issue options in the current auditing process don't capture enough of the success and issue types that can occur. For instance legal is added under potential issues though this could also be a success reporting type for a team. Often the same type of things that can be a success can also be an issue. Other types listed are also often similar such as team and leadership, personnel and supplier or contractor all deal with the collaboration within a project.
 
+**Note - **The following suggested types could be more granular to be more specific however this would come at the cost of usability when reporting. The purpose of the reporting types is to add more context to the issues that are raised by proposal teams that categorises them so they can be viewed by the community and more easily get informed and involved where necessary.
+
 {% embed url="https://gist.github.com/georgelovegrove/9707516222a0da0630c65b964cc2f2cf" %}
 
-****
+### 7. Reporting blockers - Issue specific rather than overview reporting
 
-****
+Proposals could report blockers generally in a single piece of information and have a status update to their proposal to indicate they are blocked. Alternatively they could also mark specific issues in a progress report as blockers.
+
+**Reporting blockers as an overview**
+
+* Have a top level blocked status makes it clear the proposal isn't progressing.
+* Top level overview and blocked status fails to communicate granularity of the blocker - Is there one or multiple? What is it about? The community would need to read to understand the blocker more specifically.
+* Gives proposers an easier path to add only information about being blocked rather than a proper progress update on other areas they may be working and more specifics about the blocker.&#x20;
+
+**Reporting blocks in issues**
+
+* Proposal status changes can be more one way directional going from not started to in progress to completed or uncompleted. This would make overall proposal status changes easier to follow.
+* Individual issues can be marked as being blocked where the proposer can add extra information about why they are blocked and how they intend to overcome the issue. This makes it easier for the community to find exact reasons why proposals are blocked making it easier for relevant people to specific problems to jump in and help.
+* Marking issues as blockers helps to not prevent progress updates being given on other areas of the proposal that may not be blocked.
+
+Overall by marking specific issues as blockers it should help encourage better reporting behaviour by allowing proposers to give updates on any part of the proposal and to individually mark issues that are blockers when necessary. Most community members will only be able to help out in certain areas. If it is easy to find proposals with issues that they can help with then this reduces the friction and increases the likelihood that they help more proposal teams.
+
+
+

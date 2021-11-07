@@ -54,7 +54,7 @@ The definition of each KPI for a given proposal should be available with general
 
 ### **Proposal management**
 
-A data model for the milestones and KPIs that a proposer should be able to add to their proposal information.
+A data model for the milestones and KPIs that a proposer should be able to add to their proposal and manage.
 
 **Data model**
 
