@@ -1,9 +1,5 @@
 # Questions to answer
 
-### **Data model thoughts**
-
-* **Milestones and KPI data model** - More thought is needed on what data would be needed to store.
-
 ### Upcoming auditing meeting thoughts
 
 * **Dedicated auditing Discord chat** - Both IOG and community should use or at least be aware of a dedicated chat for talking about auditing
