@@ -1,11 +1,21 @@
 # Table of contents
 
 * [Overview](README.md)
-* [Current auditing process](current-auditing-process.md)
-* [Auditing data model](auditing-data-model/README.md)
-  * [Data model design decisions](auditing-data-model/data-model-design-decisions.md)
-* [Initial implementation](initial-implementation.md)
-* [Questions to answer](questions-to-answer.md)
-* [Meetings](meetings.md)
-* [Audit Presentation](audit-presentation.md)
-* [Quest for Taxonomy](quest-for-taxonomy.md)
+
+## Analysis
+
+* [Current auditing process](analysis/current-auditing-process.md)
+* [Auditing data model](analysis/auditing-data-model/README.md)
+  * [Initial implementation](analysis/auditing-data-model/initial-implementation.md)
+* [Data model design decisions](analysis/data-model-design-decisions.md)
+* [Questions to answer](analysis/questions-to-answer.md)
+
+## Auditability Challenge
+
+* [Auditability Challenge Team](auditability-challenge/auditability-challenge-team.md)
+
+## Admin
+
+* [Meetings](admin/meetings.md)
+* [Audit Presentation](admin/audit-presentation.md)
+* [Quest for Taxonomy](admin/quest-for-taxonomy.md)

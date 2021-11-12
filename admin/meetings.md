@@ -2,7 +2,7 @@
 
 ## 20th October 2021 - After Town Hall
 
-![Cohort Improvements - Community](<.gitbook/assets/2021-10-26 (14).png>)
+![Cohort Improvements - Community](<../.gitbook/assets/2021-10-26 (14).png>)
 
 In the After Town Hall of the 20th October 2021, a breakout session entitled "Cohort Improvements" presented a collaborative initiative to discuss, develop and document Catalyst Auditing.
 

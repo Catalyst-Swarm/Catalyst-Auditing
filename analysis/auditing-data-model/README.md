@@ -6,7 +6,7 @@ description: >-
 
 # Auditing data model
 
-Review the [data model design decisions](data-model-design-decisions.md) to understand how this data model was created.
+Review the [data model design decisions](../data-model-design-decisions.md) to understand how this data model was created.
 
 ## Data groupings
 
