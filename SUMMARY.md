@@ -19,3 +19,7 @@
 * [Meetings](admin/meetings.md)
 * [Audit Presentation](admin/audit-presentation.md)
 * [Quest for Taxonomy](admin/quest-for-taxonomy.md)
+
+## Proposals
+
+* [Fund 6 Proposals](proposals/fund-6-proposals.md)
