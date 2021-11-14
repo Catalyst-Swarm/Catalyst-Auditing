@@ -8,6 +8,8 @@ description: Fund 6 Proposals in the
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Smart-Contract-Audit-Token-SCAT-DAO/367602-48088" %}
 
+{% embed url="https://www.youtube.com/watch?v=65t2DG9jxGw" %}
+
 ## Distributed Auditability
 
 {% embed url="https://cardano.ideascale.com/a/dtd/Distributed-Auditability/366707-48088" %}
