@@ -6,8 +6,8 @@
 
 * [Current auditing process](analysis/current-auditing-process.md)
 * [Auditing data model](analysis/auditing-data-model/README.md)
-  * [Initial implementation](analysis/auditing-data-model/initial-implementation.md)
-* [Data model design decisions](analysis/data-model-design-decisions.md)
+  * [Data model design decisions](analysis/auditing-data-model/data-model-design-decisions.md)
+* [Initial implementation](analysis/initial-implementation.md)
 * [Questions to answer](analysis/questions-to-answer.md)
 
 ## Auditability Challenge
