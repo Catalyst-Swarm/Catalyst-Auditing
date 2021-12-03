@@ -1,5 +1,35 @@
 # Meetings
 
+## 2nd December 2021 - Catalyst Auditing working group
+
+Attendees : Kriss Baird (iohk) - organizer, Philip Khoo - AIM, Harris Warren (iohk), Khalid Amin (iohk), Dor Garbash (iohk), Matthias Sieber, Daniel Ribar (iohk), Victor Corcino, 
+Marek Buchowiecki (iohk), Mariia Rodinko (iohk), Dmytro Kaidalov (iohk), Roman Oliynykov (iohk), TK Princewill (iohk), Kendra - (knowan.io).
+
+### Bi-weekly meeting to unpack Decentralised Auditing
+Pre-reading for Auditing working-group:  
+Here are all the Improve and Grow Auditability F7 challenge proposals: 
+- https://cardano.ideascale.com/a/campaign-home/26253  
+
+This meeting will generally address success factors for product-management requirements gathering for Decentralised Auditing, with careful consideration of the ranges of experience-levels, project types/outcomes that proposal owners in Catalyst maintain.
+
+
+## 4th November 2021 - Distributed Auditability
+
+Attendees : Felix Weber, George Lovegove, Tevo Saks, Stephen Whitenstall
+
+We meet to discuss ways forward on the "Quest for Taximony" ([see this section](quest-for-taxonomy.md)).
+
+* How to group proposals by tags. Data wrangling.
+* How to proceed with "Quest for Taximony" for Fund 6 proposals
+* Limiting Auditability Pilot to Fund 6 Proposers in our network.
+* Taking care to get the tagging right.
+
+## 21st October 2021 - Decentralized Auditing
+
+Ron Hill, CEO of SPOCRA gave a presentation on Auditing ([see this section](audit-presentation.md#presentation)).
+
+More detail to be added from Miro.
+
 ## 20th October 2021 - After Town Hall
 
 ![Cohort Improvements - Community](<../.gitbook/assets/2021-10-26 (14).png>)
@@ -35,19 +65,5 @@ The following actions came out of this meeting :
 
 {% embed url="https://docs.google.com/document/d/1QYN89bnd2Wi6Mp3MkeWm6wPMWK1ch_wTAuShKUgmBEw/edit?usp=sharing" %}
 
-## 21st October 2021 - Decentralized Auditing
 
-Ron Hill, CEO of SPOCRA gave a presentation on Auditing ([see this section](audit-presentation.md#presentation)).
 
-More detail to be added from Miro.
-
-## 4th November 2021 - Distributed Auditability
-
-Attendees : Felix Weber, George Lovegove, Tevo Saks, Stephen Whitenstall
-
-We meet to discuss ways forward on the "Quest for Taximony" ([see this section](quest-for-taxonomy.md)).
-
-* How to group proposals by tags. Data wrangling.
-* How to proceed with "Quest for Taximony" for Fund 6 proposals
-* Limiting Auditability Pilot to Fund 6 Proposers in our network.
-* Taking care to get the tagging right.
