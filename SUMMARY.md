@@ -12,6 +12,7 @@
 
 ## Auditability Challenge
 
+* [Auditability Challenge](auditability-challenge/auditability-challenge.md)
 * [Auditability Challenge Team](auditability-challenge/auditability-challenge-team.md)
 
 ## Admin
