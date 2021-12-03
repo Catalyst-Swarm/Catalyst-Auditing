@@ -2,16 +2,16 @@
 
 ## 2nd December 2021 - Catalyst Auditing working group
 
-Attendees : Kriss Baird (iohk) - organizer, Philip Khoo - AIM, Harris Warren (iohk), Khalid Amin (iohk), Dor Garbash (iohk), Matthias Sieber, Daniel Ribar (iohk), Victor Corcino, 
-Marek Buchowiecki (iohk), Mariia Rodinko (iohk), Dmytro Kaidalov (iohk), Roman Oliynykov (iohk), TK Princewill (iohk), Kendra - (knowan.io).
+Attendees : Kriss Baird (iohk) - organizer, Philip Khoo - AIM, Harris Warren (iohk), Khalid Amin (iohk), Dor Garbash (iohk), Matthias Sieber, Daniel Ribar (iohk), Victor Corcino, Marek Buchowiecki (iohk), Mariia Rodinko (iohk), Dmytro Kaidalov (iohk), Roman Oliynykov (iohk), TK Princewill (iohk), Kendra - (knowan.io), Stephen Whitenstall (QA-DAO).
 
 ### Bi-weekly meeting to unpack Decentralised Auditing
-Pre-reading for Auditing working-group:  
-Here are all the Improve and Grow Auditability F7 challenge proposals: 
-- https://cardano.ideascale.com/a/campaign-home/26253  
+
+Pre-reading for Auditing working-group:\
+Here are all the Improve and Grow Auditability F7 challenge proposals:
+
+* https://cardano.ideascale.com/a/campaign-home/26253
 
 This meeting will generally address success factors for product-management requirements gathering for Decentralised Auditing, with careful consideration of the ranges of experience-levels, project types/outcomes that proposal owners in Catalyst maintain.
-
 
 ## 4th November 2021 - Distributed Auditability
 
@@ -40,7 +40,7 @@ Participants included - George Lovegrove, Lucio Coire, Robert O'Brian, Stephen W
 
 The following actions came out of this meeting :
 
-### (A) Language Preparation (Quest for Taxonomy) <a href="docs-internal-guid-1cfd680d-7fff-fd81-7678-dcc4c22463c3" id="docs-internal-guid-1cfd680d-7fff-fd81-7678-dcc4c22463c3"></a>
+### (A) Language Preparation (Quest for Taxonomy) <a href="#docs-internal-guid-1cfd680d-7fff-fd81-7678-dcc4c22463c3" id="docs-internal-guid-1cfd680d-7fff-fd81-7678-dcc4c22463c3"></a>
 
 1. **Completed**: Creating Spreadsheet of all Funded Proposals since Fund 3/4 - Lucio
 2. **In Progress** : Asking the CAs & vCAs + T\&Ms to describe the proposals - Victor & Felix
@@ -64,6 +64,3 @@ The following actions came out of this meeting :
 ### Source Document :
 
 {% embed url="https://docs.google.com/document/d/1QYN89bnd2Wi6Mp3MkeWm6wPMWK1ch_wTAuShKUgmBEw/edit?usp=sharing" %}
-
-
-
