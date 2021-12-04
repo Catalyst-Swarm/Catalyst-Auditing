@@ -52,7 +52,7 @@ The progress status value does not deal with whether the milestones are fully re
 
 The current success and issue options in the current auditing process don't capture enough of the success and issue types that can occur. For instance legal is added under potential issues though this could also be a success reporting type for a team. Often the same type of things that can be a success can also be an issue. Other types listed are also often similar such as team and leadership, personnel and supplier or contractor all deal with the collaboration within a project.
 
-**Note - **The following suggested types could be more granular to be more specific however this would come at the cost of usability when reporting. The purpose of the reporting types is to add more context to the issues that are raised by proposal teams that categorises them so they can be viewed by the community and more easily get informed and involved where necessary.
+**Note -** The following suggested types could be more granular to be more specific however this would come at the cost of usability when reporting. The purpose of the reporting types is to add more context to the issues that are raised by proposal teams that categorises them so they can be viewed by the community and more easily get informed and involved where necessary.
 
 {% embed url="https://gist.github.com/georgelovegrove/9707516222a0da0630c65b964cc2f2cf" %}
 

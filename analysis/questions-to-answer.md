@@ -8,7 +8,7 @@
 * **2) Meeting dates should be fixed** - Lack of attendance by anyone shouldn't impact a meeting being carried out, progress can be performed by attending members and those who can't attend can leave input for the meeting ahead of time and catch up afterwards
 * **3) Give feedback on analysis for current auditing process** - Do IOG and others agree that the data that can be omitted is correct or should it be re-considered?
 * **4) IOG feedback on data model** - The community will implement a reporting process against the data model that gets finalised. IOG should provide their thoughts and expertise on this before more effort goes into realising it.
-* **5) Auditing circle fund 7 proposal **- It will make sense to create a proposal for the auditing group to get funds from the treasury to pay for work carried out in the auditing team.
+* **5) Auditing circle fund 7 proposal** - It will make sense to create a proposal for the auditing group to get funds from the treasury to pay for work carried out in the auditing team.
 
 ****
 
