@@ -25,3 +25,7 @@
 
 * [Fund 7 Proposals](proposals/fund-7-proposals.md)
 * [Fund 6 Proposals](proposals/fund-6-proposals.md)
+
+## Group 1
+
+* [Smart Contract Audit Token: Proposed Catalyst Audit Strategy](group-1/smart-contract-audit-token-proposed-catalyst-audit-strategy.md)
