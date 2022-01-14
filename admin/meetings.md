@@ -10,6 +10,8 @@ description: Catalyst Auditing Meetings in most recent order first
 
 ### KPI Reporting & Oversight Challenges
 
+**Recording Placeholder**
+
 {% hint style="info" %}
 Documented on this miro board : [https://miro.com/app/board/uXjVOdpYqTI=/](https://miro.com/app/board/uXjVOdpYqTI=/)
 {% endhint %}
@@ -22,9 +24,7 @@ Documented on this miro board : [https://miro.com/app/board/uXjVOdpYqTI=/](https
 
 3: Record and reflect on session!
 
-
-
-#### Problem statement :&#x20;
+**Problem statement :**&#x20;
 
 Funded projects and teams within IO have different ideas about what Metrics / KPIs / OKRs are meaningful in Catalyst & this makes it difficult to demonstrate Funded-project's & Catalyst Challenge ROI to community.&#x20;
 
@@ -37,6 +37,18 @@ How do we know if a Challenge was achieved or if ROI to the Challenge was positi
 2\. Community (who need transparency about funded-project ROI)&#x20;
 
 3\. Internal stakeholders (so IOG can be responsive & communicate Catalyst ROI)
+
+Activity 1: How do you feel about the current KPI & Progress reporting process & how would you improve it?&#x20;
+
+1\) 1-3 ideas each to KPI challenges \[YELLOW]    5 mins
+
+2\) Communicate ideas to group       5 mins
+
+3\) What are your ideas for solutions \[TURQUOISE] 10 mins
+
+4\) Considerations for opening up KPI data \[GREEN] 5 mins&#x20;
+
+**Outcome :** Some starter stickies have been added from insights shared by Funded projects from Tuesday 11th Jan Coordinator meeting
 
 
 
