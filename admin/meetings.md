@@ -38,7 +38,7 @@ How do we know if a Challenge was achieved or if ROI to the Challenge was positi
 
 3\. Internal stakeholders (so IOG can be responsive & communicate Catalyst ROI)
 
-Activity 1: How do you feel about the current KPI & Progress reporting process & how would you improve it?&#x20;
+**Activity 1**: How do you feel about the current KPI & Progress reporting process & how would you improve it?&#x20;
 
 1\) 1-3 ideas each to KPI challenges \[YELLOW]    5 mins
 
@@ -50,13 +50,15 @@ Activity 1: How do you feel about the current KPI & Progress reporting process &
 
 **Outcome :** Some starter stickies have been added from insights shared by Funded projects from Tuesday 11th Jan Coordinator meeting
 
+#### References&#x20;
 
+Jo Allum - Return on Intent - "**We believe in trust more than we believe in the truth. "**&#x20;
 
+{% embed url="https://blog.p2pfoundation.net/roi-return-intention/2017/05/10?cn-reloaded=1" %}
 
+**Audit Circle F7 Proposal** - Jo Allum, Eric Helms, George LoveGrove, Stephen Whitenstall - &#x20;
 
-
-
-##
+{% embed url="https://cardano.ideascale.com/c/idea/381354" %}
 
 ## 2nd December 2021 - Catalyst Auditing working group
 
