@@ -1,8 +1,54 @@
+---
+description: Catalyst Auditing Meetings in most recent order first
+---
+
 # Meetings
+
+## 13th January 2022, Catalyst Auditing working group
+
+**Attendees** : Kriss Baird (iohk) - organizer, Khalid Amin (iohk), Matthias Sieber, Daniel Ribar (iohk), Mariia Rodinko (iohk), Dmytro Kaidalov (iohk), Roman Oliynykov (iohk), TK Princewill (iohk), jack.briggs (iohk), Kendra - (knowan.io), Dominik Tilman, Tevo Saks, Jo Allum (yojodesign), Eric Helms (SCATDAO), George Lovegrove (PACE), Stephen Whitenstall (QA-DAO) & others.
+
+### KPI Reporting & Oversight Challenges
+
+{% hint style="info" %}
+Documented on this miro board : [https://miro.com/app/board/uXjVOdpYqTI=/](https://miro.com/app/board/uXjVOdpYqTI=/)
+{% endhint %}
+
+#### Objective: Shareable brainstorm
+
+1: Listen to inputs about how we all understand demonstrating ROI
+
+2: Participate in activities to identify issues and solutions
+
+3: Record and reflect on session!
+
+
+
+#### Problem statement :&#x20;
+
+Funded projects and teams within IO have different ideas about what Metrics / KPIs / OKRs are meaningful in Catalyst & this makes it difficult to demonstrate Funded-project's & Catalyst Challenge ROI to community.&#x20;
+
+How do we know if a Challenge was achieved or if ROI to the Challenge was positive?&#x20;
+
+3 audiences we aim to satisfy:&#x20;
+
+1\. Funded-Projects (setting & reporting KPIs/OKRs for accountability)&#x20;
+
+2\. Community (who need transparency about funded-project ROI)&#x20;
+
+3\. Internal stakeholders (so IOG can be responsive & communicate Catalyst ROI)
+
+
+
+
+
+
+
+##
 
 ## 2nd December 2021 - Catalyst Auditing working group
 
-Attendees : Kriss Baird (iohk) - organizer, Philip Khoo - AIM, Harris Warren (iohk), Khalid Amin (iohk), Dor Garbash (iohk), Matthias Sieber, Daniel Ribar (iohk), Victor Corcino, Marek Buchowiecki (iohk), Mariia Rodinko (iohk), Dmytro Kaidalov (iohk), Roman Oliynykov (iohk), TK Princewill (iohk), Kendra - (knowan.io), Stephen Whitenstall (QA-DAO).
+**Attendees** : Kriss Baird (iohk) - organizer, Philip Khoo - AIM, Harris Warren (iohk), Khalid Amin (iohk), Dor Garbash (iohk), Matthias Sieber, Daniel Ribar (iohk), Victor Corcino, Marek Buchowiecki (iohk), Mariia Rodinko (iohk), Dmytro Kaidalov (iohk), Roman Oliynykov (iohk), TK Princewill (iohk), Kendra - (knowan.io), Stephen Whitenstall (QA-DAO).
 
 ### Bi-weekly meeting to unpack Decentralised Auditing
 
