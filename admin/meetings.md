@@ -10,7 +10,9 @@ description: Catalyst Auditing Meetings in most recent order first
 
 ### KPI Reporting & Oversight Challenges
 
-**Recording Placeholder**
+**Recording**
+
+{% embed url="https://drive.google.com/file/d/1mkQgwbhX_Gdy7J6EQXJ3CVps8YAoYrEC/view" %}
 
 {% hint style="info" %}
 Documented on this miro board : [https://miro.com/app/board/uXjVOdpYqTI=/](https://miro.com/app/board/uXjVOdpYqTI=/)
